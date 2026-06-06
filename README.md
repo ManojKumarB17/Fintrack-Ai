@@ -268,7 +268,7 @@ All insights are generated dynamically from your MongoDB transaction data — no
 
 ## 👨‍💻 Author
 
-Built by **Amith K G** | CSE Final Year | Bangalore
+Built by **Manoj Kumar B** | CSE Final Year | Bangalore
 
 ---
 
